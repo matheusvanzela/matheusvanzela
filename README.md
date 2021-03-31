@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matheusvanzela
+- 👀 I’m interested in Agribusiness problems, management, math, Python and stars
+- 🌱 I’m currently learning Phd in Agribusiness
+- 💞️ I’m looking to collaborate on math, Python, databases
+- 📫 Reach me on matheus.vanzela@ifms.edu.br (professional); matheusvanzela@gmail.com (personal)
